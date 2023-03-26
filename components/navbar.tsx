@@ -5,7 +5,6 @@ import { useScrollPosition } from './hooks/useScrollPosition'
 
 const menuItems = [
   { id: 'home', name: 'nav_home', path: '/' },
-  { id: 'work', name: 'nav_work', path: '/work' },
   { id: 'projects', name: 'nav_projects', path: '/projects' },
   { id: 'about', name: 'nav_about', path: '/about' },
 ]
@@ -47,11 +46,6 @@ export default function NavBar() {
           <li>
             <Link href="/">
               <p>🏠</p>
-            </Link>
-          </li>
-          <li>
-            <Link href="/work">
-              <p>💼</p>
             </Link>
           </li>
           <li>

@@ -18,13 +18,6 @@ export default function Home() {
         </p>
 
         <div className="max-w-5xl flex flex-wrap items-center justify-center">
-          <Link
-            href="/work"
-            className="max-w-md m-4 p-6 text-left inherit no-underline border border-gray-200 rounded-xl hover:text-indigo-400"
-          >
-            <h2 className="mb-4 text-2xl">{t('label_work')}</h2>
-            <p className="mb-5 text-lg">{t('intro_work')}</p>
-          </Link>
 
           <Link
             href="/projects"
@@ -32,14 +25,6 @@ export default function Home() {
           >
             <h2 className="mb-4 text-2xl">{t('label_projects')}</h2>
             <p className="mb-5 text-lg">{t('intro_projects')}</p>
-          </Link>
-
-          <Link
-            href="https://www.canvasconfetti.com"
-            className="max-w-md m-4 p-6 text-left inherit no-underline border border-gray-200 rounded-xl hover:text-indigo-400"
-          >
-            <h2 className="mb-4 text-2xl">{t('label_paintings')}</h2>
-            <p className="mb-5 text-lg">{t('intro_paintings')}</p>
           </Link>
 
           <Link
