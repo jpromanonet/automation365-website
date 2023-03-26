@@ -45,7 +45,7 @@ export default function About() {
             <p className="text-red-400">{t('common:contact')}</p>
             <div className="mt-5 flex flex-row cursor-pointer justify-center text-center">
               <div className="px-4">
-                <Link href="https://github.com/plutach" target="_blank">
+                <Link href="https://github.com/jpromanonet" target="_blank">
                   <p className="hover:text-red-400 font-bold">Github</p>
                 </Link>
               </div>
