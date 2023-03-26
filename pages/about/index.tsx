@@ -51,7 +51,7 @@ export default function About() {
               </div>
               <div className="px-4">
                 <Link
-                  href="https://www.linkedin.com/in/jananadiw/"
+                  href="https://www.linkedin.com/in/jpromanonet/"
                   target="_blank"
                 >
                   <p className="hover:text-red-400 font-bold">LinkedIn</p>
