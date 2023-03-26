@@ -9,7 +9,7 @@ export default function Footer() {
         <Switcher />
         <LanguageSelector />
       </div>
-      <footer className="py-4">&copy; Jananadi Wedagedara 2022</footer>
+      <footer className="py-4">&copy; Juan P. Romano - 2023</footer>
     </div>
   )
 }
