@@ -1,4 +1,3 @@
-import LanguageSelector from './languageSelector'
 import Switcher from './switcher'
 import { motion } from 'framer-motion'
 
