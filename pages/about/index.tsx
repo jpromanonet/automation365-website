@@ -8,7 +8,7 @@ export default function About() {
   const Component = (props: any) => <p {...props} />
   const { t } = useTransition('about')
   const openEmailClient = () => {
-    window.open('mailto:jananadiw@gmail.com')
+    window.open('mailto:programming@jpromano.net')
   }
 
   const downloadResume = () => {
