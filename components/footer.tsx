@@ -7,7 +7,6 @@ export default function Footer() {
     <div className="w-full py-8 text-center  items-center justify-center dark:text-slate-300">
       <div className="block ">
         <Switcher />
-        <LanguageSelector />
       </div>
       <footer className="py-4">&copy; Juan P. Romano - 2023</footer>
     </div>
