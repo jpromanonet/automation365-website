@@ -1,6 +1,6 @@
 {
     "intro_cc": "Intro to the automation project of the day",
-    "intro_udemy_clone": "A clone project which helped me learn ReactJs and NextJs.",
+    "intro_udemy_clone": "I don't know what goes in here",
     "intro_art_uploader": "Admin tool for uploading artwork for art portfolio site. Build using NestJs for the back-end and ReactJs on the front. The objects would save in an S3 bucket while saving the object url on a database.",
     "intro_article": "Simple how to article for AWS cloudfront invalidations."
 }
